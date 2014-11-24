@@ -16,4 +16,4 @@ https://github.com/shemer77/heroku-buildpack-xpdf
 See the documentation of heroku-build-multi for a undetailed explanation on how to use it.
 
 ## License
-MIT License. Copyright 2014 ARK.
+WTFPL License. Copyright 2014 ARK.
